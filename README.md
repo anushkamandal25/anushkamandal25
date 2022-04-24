@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Anushka</h1>
-<h3 align="center">A passionate frontend developer and tech enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkamandal25&label=Profile%20views&color=0e75b6&style=flat" alt="anushkamandal25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushkamandal25" alt="anushkamandal25" /></a> </p>
+<h1 align="center">Hi 👋, I'm Anushka Mandal!</h1>
+<h3 align="center">A passionate frontend developer and tech enthusiast. I am an EE Undergrad at NIT Durgapur.</h3>
 
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **JS, React**
+
+- 🤝 I’m looking for help with **Django and CP**
+
+- 💬 Ask me about **Html, CSS, JS, React, Python**
 
 - 📫 How to reach me **anushka.mandal03@gmail.com**
 
