@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Mandal!</h1>
-<h3 align="center">A passionate frontend developer and tech enthusiast. I am an EE Undergrad at NIT Durgapur.</h3>
+<h3 align="center">A passionate frontend developer and tech enthusiast.</h3>
 
 - 🔭 I’m currently working on **Web Development**
 
